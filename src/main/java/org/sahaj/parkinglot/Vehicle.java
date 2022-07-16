@@ -1,4 +1,4 @@
-package org.sahaj.parkinglot.vehicle;
+package org.sahaj.parkinglot;
 
 public enum Vehicle {
 

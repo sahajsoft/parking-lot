@@ -1,11 +1,5 @@
 package org.sahaj.parkinglot;
 
-import org.sahaj.parkinglot.receipt.Receipt;
-import org.sahaj.parkinglot.receipt.ReceiptGenerator;
-import org.sahaj.parkinglot.spot.Spot;
-import org.sahaj.parkinglot.ticket.Ticket;
-import org.sahaj.parkinglot.vehicle.Vehicle;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.IntStream;

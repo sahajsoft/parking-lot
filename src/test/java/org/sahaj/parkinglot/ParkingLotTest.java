@@ -2,9 +2,6 @@ package org.sahaj.parkinglot;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.sahaj.parkinglot.receipt.Receipt;
-import org.sahaj.parkinglot.ticket.Ticket;
-import org.sahaj.parkinglot.vehicle.Vehicle;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

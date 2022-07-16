@@ -1,7 +1,4 @@
-package org.sahaj.parkinglot.ticket;
-
-import org.sahaj.parkinglot.spot.Spot;
-import org.sahaj.parkinglot.vehicle.Vehicle;
+package org.sahaj.parkinglot;
 
 public class Ticket {
 
