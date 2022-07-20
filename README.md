@@ -33,3 +33,7 @@ The code can be setup in your favorite code editor. Follow instructions to set i
 * Execute JUnit tests in code editor or command line `./gradlew test`
 * All but one test should pass. Currently `shouldUnParkAndUnParkFixedNumberOfCars` test fails. 
 * As long as you have reached this point, you are ready to start pairing
+
+### Additional instructions
+
+* Pairing helps, so please consider setting up [POP remote pairing tool](https://pop.com/) ahead of time for a seamless pairing experience
