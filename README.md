@@ -33,7 +33,10 @@ The code can be setup in your favorite code editor. Follow instructions to set i
 * Execute JUnit tests in code editor or command line `./gradlew test`
 * All but one test should pass. Currently `shouldUnParkAndUnParkFixedNumberOfCars` test fails. 
 * As long as you have reached this point, you are ready to start pairing
+* Refactor/update code if you think there are minor improvements can be made. This is not a pre-requisite but don't hold yourself back if you would like to do this
 
 ### Additional instructions
 
 * Pairing helps, so please consider setting up [POP remote pairing tool](https://pop.com/) ahead of time for a seamless pairing experience
+* Feel free to refactor and change code if you think it can be improved and for pairing exercise your modified version can be the starting base for new changes
+* During pairing we prefer Red-Green refactor. It helps us refactor incrementally and keeps code functional at all times. If you are not familiar, please take a moment to read up on different [workflows of refactoring](https://martinfowler.com/articles/workflowsOfRefactoring/) ahead of your pairing
